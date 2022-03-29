@@ -7,6 +7,9 @@ _This is a sample HelloWorld program written in C_
 #include <stdlib.h>
 
 int main (){
+
 	printf("HelloWorld");
+
+return 0;
 }
 ```
